@@ -1,0 +1,7 @@
+.word-list {
+   max-height: 35vh;
+   list-style: none;
+   margin: 0;
+   overflow: auto;
+   padding: 0 !important;
+}
